@@ -2,11 +2,11 @@
   Opa, eu sou o Yan Carlos!
 </h1>
 
-Permaneço explorando minha paixão pela tecnologia e buscando por oportunidades que possam expandir meu conhecimento. Aqui você pode encontrar alguns projetos que desenvolvi durante a minha jornada na ETEC.
+Permaneço explorando minha paixão pela tecnologia e buscando por oportunidades que possam expandir meu conhecimento. Aqui você pode encontrar alguns projetos que desenvolvi durante a minha jornada na ETEC e SPTech.
 
-- :computer: Iniciei minha jornada na programação em 2020.
+- :computer: Iniciei minha jornada na programação em 2018.
 
-- :books: Cursando Técnico em Desenvolvimento de Sistemas, na ETEC Cidade Tiradentes.
+- :books: Cursando Análise e Desenvolvimento de Sistemas, na São Paulo Tech School.
 
 <div align="center">
   <a href="https://github.com/YanCarlosCamargo">
